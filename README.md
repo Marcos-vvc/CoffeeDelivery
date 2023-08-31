@@ -25,4 +25,29 @@ Projeto foi proposto como desafio, sendo assim disponibilizado somente o layout(
 - Context
 - Phosphor-icons
 
-  <a href="#-voltar-ao-topo"> Topo </a>
+# :computer: Rodar o Projeto: 
+
+-- Procedimento iniciar aplicação --
+
+-   Acessar primeiro o diretório com o comando:
+
+```bash
+cd CoffeeDelivery
+```
+-   Instalar as dependências da aplicação:
+
+```bash
+npm install
+```
+
+-   Iniciar a aplicação com o comando:
+
+```bash
+npm run dev
+```
+
+# :rocket: Site
+
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://coffee-delivery-three-tau.vercel.app)
+
+# :arrow_up: <a href="#-voltar-ao-topo"> Topo </a>
